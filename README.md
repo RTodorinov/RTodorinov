@@ -1,5 +1,6 @@
 ### 👋 Hi there I'm ROSEN TODORINOV
-================================
+===============================
+
 Senior Information Technology Specialist and Administrator
 ----------------------------------------------------------
 Skilled in Service Delivery,Technical Support,Databases,PLSQL, and IT Service Managment.Redy to solve problems and participate with new projects.
