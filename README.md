@@ -1,3 +1,6 @@
+<!-- <img src="follow_back.gif" alt="Follow Back"> -->
+<img src="background.jpg" alt="Analyst">
+
 ### 👋 Hi there I'm ROSEN TODORINOV
 ===============================
 
