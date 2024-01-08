@@ -27,24 +27,17 @@ My new passion is learning to code...
 <br />
 <br />
 <hr />
-----------------------------------------------------------
 
 ### Certificates I've earned:
-----------------------------------------------------------
+<div style="display: flex; flex-wrap: wrap">
+  <!-- https://img.shields.io/badge/Python-OOP-darkred?logo=Python&labelColor=blue&logoColor=white&style=flat -->
+  <a href="./certificates/python_oop_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/python_oop_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+  <a href="./certificates/python_advanced_cert.jpeg"><img align="left" alt="advanced" height="22px" src="./badges/python_advanced_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+  <a href="./certificates/python_fundamentals_cert.jpeg"><img align="left" alt="fundamentals" height="22px" src="./badges/python_fundamentals_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+  <a href="./certificates/python_basics_cert.jpeg"><img align="left" alt="basics" height="22px" src="./badges/python_basics_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
+</div>
+<br />
 
-### Open Courses
-----------------------------------------------------------
-<!--
-**RTodorinov/RTodorinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Other Courses
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
