@@ -5,8 +5,6 @@
 
 ## I'm a Senior Information Technology Specialist and Administrator
 ----------------------------------------------------------
-Skilled in Service Delivery,Technical Support,Databases,PLSQL, and IT Service Managment.Redy to solve problems and participate with new projects.
-My new passion is learning to code...
 
 * 👀 I am interested in Web Application Development, Object Oriented Programming with Python 🐍, DevOps
 * 🎓 Currently learning Software Engineering at SoftUni University
