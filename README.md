@@ -1,10 +1,10 @@
 <!-- <img src="follow_back.gif" alt="Follow Back"> -->
 <img src="background.jpg" alt="Analyst">
 
-###  Hi there I'm ROSEN 👋
+#  Hi there I'm ROSEN 👋
 ===============================
 
-Senior Information Technology Specialist and Administrator
+## I'm a Senior Information Technology Specialist and Administrator
 ----------------------------------------------------------
 Skilled in Service Delivery,Technical Support,Databases,PLSQL, and IT Service Managment.Redy to solve problems and participate with new projects.
 My new passion is learning to code...
