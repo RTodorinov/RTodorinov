@@ -2,7 +2,6 @@
 <img src="background.jpg" alt="Analyst">
 
 #  Hi there I'm ROSEN 👋
-===============================
 
 ## I'm a Senior Information Technology Specialist and Administrator
 ----------------------------------------------------------
