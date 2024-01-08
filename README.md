@@ -1,5 +1,15 @@
-### Hi there 👋
+### 👋 Hi there I'm ROSEN TODORINOV
+================================
+
+Senior Information Technology Specialist and Administrator
+----------------------------------------------------------
+* 👀 I am interested in Web Application Development, Object Oriented Programming with Python 🐍, DevOps
 * 🌍  I'm based in Sofia
+* 📫 How to reach me :
+* ✉️  You can contact me at [rosen.todorinov@gmail.com](mailto:rosen.todorinov@gmail.com)
+* 🎓  I'm currently learning Software Engineering at SoftUni University
+
+
 <!--
 **RTodorinov/RTodorinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
