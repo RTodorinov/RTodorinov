@@ -7,7 +7,7 @@ Skilled in Service Delivery,Technical Support,Databases,PLSQL, and IT Service Ma
 My new passion is learning to code...
 
 * 👀 I am interested in Web Application Development, Object Oriented Programming with Python 🐍, DevOps
-* 🎓  I'm currently learning Software Engineering at SoftUni University
+* 🎓 Currently learning Software Engineering at SoftUni University
 * 📫 How to reach me :
 * ✉️  You can contact me at [rosen.todorinov@gmail.com](mailto:rosen.todorinov@gmail.com)
 * 🌍  I'm based in Sofia
