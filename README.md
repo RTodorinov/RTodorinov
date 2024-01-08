@@ -1,17 +1,24 @@
 ### 👋 Hi there I'm ROSEN TODORINOV
 ================================
-
 Senior Information Technology Specialist and Administrator
 ----------------------------------------------------------
-Experienced Senior Information Technology Specialist and Administrator with a demonstrated history of working in the telecommunications industry. Skilled in Service Delivery,Technical Support,Databases,PLSQL, and IT Service Managment.Redy to solve problems and participate with new projects.
+Skilled in Service Delivery,Technical Support,Databases,PLSQL, and IT Service Managment.Redy to solve problems and participate with new projects.
+My new passion is learning to code...
 
 * 👀 I am interested in Web Application Development, Object Oriented Programming with Python 🐍, DevOps
-* 🌍  I'm based in Sofia
+* 🎓  I'm currently learning Software Engineering at SoftUni University
 * 📫 How to reach me :
 * ✉️  You can contact me at [rosen.todorinov@gmail.com](mailto:rosen.todorinov@gmail.com)
-* 🎓  I'm currently learning Software Engineering at SoftUni University
+* 🌍  I'm based in Sofia
 
+### Languages and Tools I know:
+----------------------------------------------------------
 
+### Certificates I've earned:
+----------------------------------------------------------
+
+### Open Courses
+----------------------------------------------------------
 <!--
 **RTodorinov/RTodorinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
