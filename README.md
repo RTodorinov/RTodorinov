@@ -42,6 +42,5 @@ padding-bottom:0.5em;"/></a>
 </div>
 <br />
 
-### Other Courses
 
 
