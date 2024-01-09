@@ -50,7 +50,7 @@ padding-bottom:0.5em;"/></a>
 
 <a href="http://www.github.com/RTodorinov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RTodorinov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosen-todorinov-b64000117/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosen-todorinov/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rosen.todorinov@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=RTodorinov&color=green)
 
