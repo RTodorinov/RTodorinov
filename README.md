@@ -10,7 +10,7 @@
 * 🎓 Currently learning Software Engineering at SoftUni University
 * 📫 How to reach me :
 * ✉️  You can contact me at [rosen.todorinov@gmail.com](mailto:rosen.todorinov@gmail.com)
-* 🌍  I'm based in Sofia
+* ⚡ In my free time I like to deal with software development and learn new tech skills
 
 ### Languages and Tools I know:
 <div style="display: flex; flex-wrap: wrap">
