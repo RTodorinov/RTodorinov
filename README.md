@@ -40,8 +40,8 @@ padding-bottom:0.5em;"/></a>
 <a href="./certificates/python_oop_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/python_oop_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
 <a href="./certificates/qa_basics_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/qa_basics_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
 <a href="./certificates/html_&_css_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/html_css_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
-
-<a href="./certificates/js_front_end_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/js_front_end_badge.svg" style="padding-right:1em; padding-bottom:0.5em; padding-top:1em;"/></a>
+<p></p>
+<a href="./certificates/js_front_end_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/js_front_end_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
 
 </div>
 <br />
