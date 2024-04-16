@@ -39,7 +39,7 @@ padding-bottom:0.5em;"/></a>
 <a href="./certificates/python_advanced_cert.jpeg"><img align="left" alt="advanced" height="22px" src="./badges/python_advanced_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
 <a href="./certificates/python_oop_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/python_oop_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
 <a href="./certificates/qa_basics_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/qa_basics_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
-  
+<a href="./certificates/qhtml_&_css_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/html_css_badge.svg" style="padding-right:1em; padding-bottom:0.5em;"/></a>
   
 </div>
 <br />
