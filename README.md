@@ -33,12 +33,11 @@
 ### Certificates I've earned:
 <div style="display: flex; flex-wrap: wrap">
   <!-- https://img.shields.io/badge/Python-OOP-darkred?logo=Python&labelColor=blue&logoColor=white&style=flat -->
-<a href="./certificates/python_basics_cert.jpeg"><img align="left" alt="basics" height="22px" src="./badges/python_basics_badge.svg" style="padding-right:0.3em; padding-bottom:0.5em;"/></a>
-<a href="./certificates/python_fundamentals_cert.jpeg"><img align="left" alt="fundamentals" height="22px" src="./badges/python_fundamentals_badge.svg" style="padding-right:0.3em;
-padding-bottom:0.5em;"/></a>
-<a href="./certificates/python_advanced_cert.jpeg"><img align="left" alt="advanced" height="22px" src="./badges/python_advanced_badge.svg" style="padding-right:0.3em; padding-bottom:0.5em;"/></a>
-<a href="./certificates/python_oop_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/python_oop_badge.svg" style="padding-right:0.3em; padding-bottom:0.5em;"/></a>
-<a href="./certificates/qa_basics_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/qa_basics_badge.svg" style="padding-right:0.3em; padding-bottom:0.5em;"/></a>
+<a href="./certificates/python_basics_cert.jpeg"><img align="left" alt="basics" height="22px" src="./badges/python_basics_badge.svg"/></a>
+<a href="./certificates/python_fundamentals_cert.jpeg"><img align="left" alt="fundamentals" height="22px" src="./badges/python_fundamentals_badge.svg"/></a>
+<a href="./certificates/python_advanced_cert.jpeg"><img align="left" alt="advanced" height="22px" src="./badges/python_advanced_badge.svg"/></a>
+<a href="./certificates/python_oop_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/python_oop_badge.svg"/></a>
+<a href="./certificates/qa_basics_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/qa_basics_badge.svg"/></a>
 <a href="./certificates/html_&_css_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/html_css_badge.svg"/></a>
 <a href="./certificates/js_front_end_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/js_front_end_badge.svg"/></a>
 <!-- <a href="./certificates/js_front_end_cert.jpeg"><img align="left" alt="oop" height="22px" src="./badges/js_front_end_badge.svg" style="padding-right:0.3em; padding-bottom:0.5em;"/></a> -->
